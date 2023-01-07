@@ -1,0 +1,19 @@
+.heading
+{
+  font-size: 43px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 50%;
+  margin: 0px;  
+}
+.note
+{
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+body
+{
+    background-size: cover;
+   background-position: center;
+}
+
